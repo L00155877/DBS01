@@ -32,3 +32,5 @@ systemd-coredump:!!:18787::::::
 administrator:$6$iuZ/M0PQNo75FMXe$pYQtpeKjgtyNFeNfz9qPvVp6eUNWj6P58kFuQQ3U3Ub11y2Mw8Aqy5m314ZkLGq1TgRYo81pd6yDEzl.I6oH01:18787:0:99999:7:::
 lxd:!:18787::::::
 usbmux:*:18787:0:99999:7:::
+mssql:!:18787::::::
+sssd:*:18788:0:99999:7:::

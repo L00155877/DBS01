@@ -32,3 +32,5 @@ systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
 administrator:x:1000:1000:administrator:/home/administrator:/bin/bash
 lxd:x:998:100::/var/snap/lxd/common/lxd:/bin/false
 usbmux:x:112:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+mssql:x:997:997::/var/opt/mssql:/bin/bash
+sssd:x:113:117::/var/lib/sss:/usr/sbin/nologin

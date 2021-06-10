@@ -56,3 +56,4 @@ lxd:x:116:administrator
 systemd-coredump:x:999:
 administrator:x:1000:
 mssql:x:997:
+sssd:x:117:
